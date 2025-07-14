@@ -1,6 +1,6 @@
 # Hi, I’m Tanishq Varpe 👋
 
-🎓 BTech CSE (AI-DS) Student at PCU  
+🎓 BTech CSE (AI-DS) Student at PCU.
 💻 Passionate about Web Dev • Java • AI/ML • Cybersecurity  
 🚀 Currently building full‑stack and ML projects  
 📫 Reach me at tanishqvarpe@gmail.com  
