@@ -21,7 +21,7 @@
 
 ## 📂 Projects
 
-### [Urethritis Diagnosis Tool](https://github.com/TanishqVarpe/your-project-link)
+### [Urethritis Diagnosis Tool](https://github.com/TanishqVarpe/Urethritis-CEP-Project.git)
 - Built using Python, FastAPI & TensorFlow  
 - Analyzes patient data to suggest likely diagnosis outcomes
 
