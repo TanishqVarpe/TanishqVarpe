@@ -22,7 +22,7 @@
 ## 📂 Projects
 
 ### [Urethritis Diagnosis Tool](https://github.com/TanishqVarpe/Urethritis-CEP-Project.git)
-- Built using Python, FastAPI & TensorFlow  
+- Built using Java Spring boot, React JS & FastAPI   
 - Analyzes patient data to suggest likely diagnosis outcomes
 
 ### [Hand Gesture Using TensorFlow](https://github.com/TanishqVarpe/Hand-Gesture-using-Tensorflow.git)
