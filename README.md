@@ -25,9 +25,12 @@
 - Built using Python, FastAPI & TensorFlow  
 - Analyzes patient data to suggest likely diagnosis outcomes
 
-### [College Portal System](https://github.com/TanishqVarpe/another-project)
-- Full‑stack app with Spring Boot & React.js  
-- Manages attendance, assignments, and student records
+### [Hand Gesture Using TensorFlow](https://github.com/TanishqVarpe/Hand-Gesture-using-Tensorflow.git)
+- Use of Tensorflow full hand Tracking system  
+- Full hand Tracking System hand Skeleton system.
+
+### [Eye Courser Using OPEN-CV](https://github.com/TanishqVarpe/eye_Cursor.git)
+- Eye Courser using Open-Cv and Eye tracking System.
 
 (*Add more personal projects here with links and one-sentence descriptions*)
 
