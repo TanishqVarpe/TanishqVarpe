@@ -4,7 +4,7 @@
 💻 Passionate about Web Dev • Java • AI/ML • Cybersecurity  
 🚀 Currently building full‑stack and ML projects  
 📫 Reach me at tanishqvarpe@gmail.com  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/tanishq-varpe-01839528a/) • [GitHub](https://github.com/TanishqVarpe)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/tanishq-varpe-01839528a/) •
 
 ---
 
