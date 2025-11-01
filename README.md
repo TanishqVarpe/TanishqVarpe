@@ -32,7 +32,7 @@
 ### [Eye Courser Using OPEN-CV](https://github.com/TanishqVarpe/eye_Cursor.git)
 - Eye Courser using Open-Cv and Eye tracking System.
 
-(*Add more personal projects here with links and one-sentence descriptions*)
+
 
 ---
 
