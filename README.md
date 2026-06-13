@@ -15,7 +15,7 @@
 - **Backend**: Spring Boot • FastAPI • REST APIs  
 - **ML / AI**: TensorFlow • Scikit‑learn • Pandas • NumPy  
 - **Databases**: MySQL 
-- **Tools**: Git • VS Code • 
+- **Tools**: Git • VS Code 
 
 ---
 
