@@ -10,12 +10,12 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Java • Python • C  
+- **Languages**: Python • C/C++
 - **Frontend**: React.js • HTML • CSS  
 - **Backend**: Spring Boot • FastAPI • REST APIs  
 - **ML / AI**: TensorFlow • Scikit‑learn • Pandas • NumPy  
-- **Databases**: MySQL • PostgreSQL  
-- **Tools**: Git • VS Code • Postman
+- **Databases**: MySQL 
+- **Tools**: Git • VS Code • 
 
 ---
 
