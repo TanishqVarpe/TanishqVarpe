@@ -126,15 +126,25 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 
 ---
 
-### 📊 By the Numbers
+### 🌱 Currently Exploring
+
+- Deepening my grip on **applied ML systems** — not just training models, but shipping them behind real APIs
+- Sharpening **cybersecurity fundamentals** alongside my Red Hat certifications
+- Looking for **internship / entry-level opportunities** in AI-DS, backend engineering, or ML
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TanishqVarpe&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqVarpe&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+
+| ⚡ Quick Facts | |
+|---|---|
+| 🎓 Studying | BTech CSE (AI-DS), PCU |
+| 🧪 Currently building | Full-stack + ML powered projects |
+| 🧩 Favorite kind of problem | Getting a computer to "see" — hand tracking, eye tracking, diagnosis tools |
+| 📬 Best way to reach me | [Email](mailto:tanishqvarpe@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tanishq-varpe-01839528a/) |
+
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=TanishqVarpe&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=TanishqVarpe&label=Profile%20Views&color=ec4899&style=flat" alt="Profile views" />
 </div>
 
 ---
