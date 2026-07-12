@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Tanishq Varpe
+# ⚡ Tanishq Varpe
 
 ### *Teaching machines to see, diagnose, and think — one project at a time.*
 
@@ -108,7 +108,21 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 ---
 
 ### 🎓 Certifications
-`Red Hat System Administration I & II (RH124, RH134)` · `Red Hat Python for RHEL (AD141)` · `Coursera: AI Engineering, Machine Learning, Blockchain`
+
+**Red Hat**
+`System Administration I (RH124)` · `System Administration II (RH134)` · `Python Programming for RHEL (AD141)`
+
+**Coursera — Blockchain**
+`Blockchain Specialization` · `Blockchain Basics` · `Blockchain Platform` · `Blockchain Smart Contracts` · `Blockchain DApps`
+
+**Coursera — Cybersecurity**
+`Foundations of Cybersecurity` · `Cybersecurity for Everyone`
+
+**Coursera — Development & Data**
+`Full Stack Development` · `Django Web Framework` · `Python` · `R for Data Science`
+
+**Coursera — Working Smart**
+`Agile Project Management` · `Agile with Jira` · `Personal Productivity`
 
 ---
 
