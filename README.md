@@ -134,7 +134,7 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=TanishqVarpe&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TanishqVarpe&theme=dark" />
 </div>
 
 ---
