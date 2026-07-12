@@ -2,7 +2,7 @@
 
 #  Tanishq Varpe
 
-### *Teaching machines to see, diagnose, and think — one project at a time.*
+### *Teaching machines to see, diagnose, and think - one project at a time.*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI-DS)+%40+PCU;Full-Stack+Developer+%2B+ML+Engineer;Building+Systems+That+See+%26+Decide;Currently+Debugging+Life+One+Commit+at+a+Time" alt="Typing SVG" />
 
