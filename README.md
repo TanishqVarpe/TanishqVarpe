@@ -59,7 +59,18 @@ class Tanishq:
 
 ---
 
-### 🚀 Things I've Built
+### 🤝 Soft Skills
+
+<div align="center">
+
+| 🧩 Problem Solving | 🗣️ Communication | 🤝 Teamwork |
+|:---:|:---:|:---:|
+| **🔄 Adaptability** | **⏱️ Time Management** | **🧭 Leadership** |
+| **🧠 Critical Thinking** | | |
+
+</div>
+
+---
 
 <table>
 <tr>
