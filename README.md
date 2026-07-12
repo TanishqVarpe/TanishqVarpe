@@ -29,7 +29,7 @@ class Tanishq:
         self.looking_for = "internships & entry-level roles in AI/ML & backend engineering"
 
     def say_hi(self):
-        return "Let's build something that actually works 🚀"
+        return "Let's build something that actually works "
 ```
 
 ---
