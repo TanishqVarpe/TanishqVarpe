@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Tanishq Varpe
+#  Tanishq Varpe
 
 ### *Teaching machines to see, diagnose, and think — one project at a time.*
 
