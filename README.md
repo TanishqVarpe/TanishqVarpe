@@ -65,7 +65,7 @@ class Tanishq:
 
 |  Problem Solving |  Communication |  Teamwork |
 |:---:|:---:|:---:|
-| ** Adaptability** | **⏱️ Time Management** | ** Leadership** |
+| ** Adaptability** | ** Time Management** | ** Leadership** |
 | ** Critical Thinking** | | |
 
 </div>
@@ -123,7 +123,7 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 <img src="https://raw.githubusercontent.com/TanishqVarpe/TanishqVarpe/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </div>
 
-<sup>⚙️ Auto-generated from commit history — see setup note below.</sup>
+<sup> Auto-generated from commit history — see setup note below.</sup>
 
 ---
 
