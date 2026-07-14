@@ -15,7 +15,7 @@
 
 ---
 
-### 🧠 The Short Story
+###  The Short Story
 
 I'm a BTech CSE (AI & Data Science) student at Pimpri Chinchwad University who likes to close the gap between *"cool ML idea"* and *"thing that actually runs."* My projects tend to have a pattern: take something a computer normally can't do — read a patient's symptoms, track a hand, follow an eye — and give it a working interface to do it anyway.
 
@@ -33,7 +33,7 @@ class Tanishq:
 
 ---
 
-### 🧰 The Toolbox
+###  The Toolbox
 
 <div align="center">
 
@@ -59,14 +59,14 @@ class Tanishq:
 
 ---
 
-### 🤝 Soft Skills
+###  Soft Skills
 
 <div align="center">
 
-| 🧩 Problem Solving | 🗣️ Communication | 🤝 Teamwork |
+|  Problem Solving |  Communication |  Teamwork |
 |:---:|:---:|:---:|
-| **🔄 Adaptability** | **⏱️ Time Management** | **🧭 Leadership** |
-| **🧠 Critical Thinking** | | |
+| ** Adaptability** | **⏱️ Time Management** | ** Leadership** |
+| ** Critical Thinking** | | |
 
 </div>
 
@@ -76,7 +76,7 @@ class Tanishq:
 <tr>
 <td width="50%" valign="top">
 
-**🩺 [Urethritis Diagnosis Tool](https://github.com/TanishqVarpe/Urethritis-CEP-Project.git)**
+** [Urethritis Diagnosis Tool](https://github.com/TanishqVarpe/Urethritis-CEP-Project.git)**
 
 A clinical decision-support system stitched together from three services talking to each other — Spring Boot for the backend, React for the interface, FastAPI for the ML brain. Feed it patient data, it suggests likely diagnoses.
 
@@ -85,7 +85,7 @@ A clinical decision-support system stitched together from three services talking
 </td>
 <td width="50%" valign="top">
 
-**✋ [Hand Gesture Recognition](https://github.com/TanishqVarpe/Hand-Gesture-using-Tensorflow.git)**
+** [Hand Gesture Recognition](https://github.com/TanishqVarpe/Hand-Gesture-using-Tensorflow.git)**
 
 Real-time hand tracking with full skeletal landmark detection — the kind of system that sits underneath gesture-controlled interfaces and touchless UIs.
 
@@ -96,7 +96,7 @@ Real-time hand tracking with full skeletal landmark detection — the kind of sy
 <tr>
 <td width="50%" valign="top">
 
-**👁️ [Eye Cursor](https://github.com/TanishqVarpe/eye_Cursor.git)**
+** [Eye Cursor](https://github.com/TanishqVarpe/eye_Cursor.git)**
 
 Your eyes become the mouse. Real-time gaze tracking pipeline that maps eye movement to cursor control — built with accessibility in mind.
 
@@ -105,7 +105,7 @@ Your eyes become the mouse. Real-time gaze tracking pipeline that maps eye movem
 </td>
 <td width="50%" valign="top">
 
-**🔮 What's Next**
+** What's Next**
 
 More ML pipelines that don't just live in notebooks — shipped, connected, and usable end-to-end. Always open to collaborating on something ambitious.
 
@@ -117,7 +117,7 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 
 ---
 
-### 👾 Pac-Man Contribution Graph
+###  Pac-Man Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/TanishqVarpe/TanishqVarpe/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
@@ -127,7 +127,7 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
 **Red Hat**
 `System Administration I (RH124)` · `System Administration II (RH134)` · `Python Programming for RHEL (AD141)`
@@ -146,7 +146,7 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
 - Deepening my grip on **applied ML systems** — not just training models, but shipping them behind real APIs
 - Sharpening **cybersecurity fundamentals** alongside my Red Hat certifications
@@ -154,12 +154,12 @@ More ML pipelines that don't just live in notebooks — shipped, connected, and 
 
 <div align="center">
 
-| ⚡ Quick Facts | |
+|  Quick Facts | |
 |---|---|
-| 🎓 Studying | BTech CSE (AI-DS), PCU |
-| 🧪 Currently building | Full-stack + ML powered projects |
-| 🧩 Favorite kind of problem | Getting a computer to "see" — hand tracking, eye tracking, diagnosis tools |
-| 🎯 Status | Open to internships & entry-level roles |
+|  Studying | BTech CSE (AI-DS), PCU |
+|  Currently building | Full-stack + ML powered projects |
+|  Favorite kind of problem | Getting a computer to "see" — hand tracking, eye tracking, diagnosis tools |
+|  Status | Open to internships & entry-level roles |
 
 </div>
 
